@@ -20,7 +20,7 @@ public class ArCondicionado {
 	}
 	
 	public void mostrar() {
-		System.out.println("Temperatura atual: " + temperatura);
+		System.out.println("Temperatura atual: " + temperatura + "ºC");
 		System.out.println("Modo atual: " + modo);
 	}
 }
