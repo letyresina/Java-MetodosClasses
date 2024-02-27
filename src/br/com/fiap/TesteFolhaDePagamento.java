@@ -5,6 +5,6 @@ public class TesteFolhaDePagamento {
 		
 		FolhaDePagamento folhaPag = new FolhaDePagamento();	
 		
-		folhaPag.calcularSalarioLiquido();
+		folhaPag.calcularSalarioLiquido(5000, 2, 10, 50);
 	}
 }
